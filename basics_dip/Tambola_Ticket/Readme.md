@@ -48,7 +48,7 @@ The script [`Tambola_Ticket.m`](Tambola_Ticket.m) implements the generation algo
 1. Open MATLAB.
 2. Navigate to this directory:
    ```matlab
-   cd('Lab-01/Tambola_Ticket')
+   cd('basics_dip/Tambola_Ticket')
    ```
 3. Run the script:
    ```matlab

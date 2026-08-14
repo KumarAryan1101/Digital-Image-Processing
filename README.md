@@ -31,7 +31,7 @@ The laboratory work may include concepts such as:
 ```text
 Digital-Image-Processing/
 │
-├── Lab-01/
+├── basics_dip/
 ├── Lab-02/
 ├── Lab-03/
 ├── Lab-04/

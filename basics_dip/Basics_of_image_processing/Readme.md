@@ -48,7 +48,7 @@ The script [`basics_of_image_processing.m`](basics_of_image_processing.m) perfor
 1. Open MATLAB.
 2. Navigate to this directory:
    ```matlab
-   cd('Lab-01/Basics_of_image_processing')
+   cd('basics_dip/Basics_of_image_processing')
    ```
 3. Run the script:
    ```matlab
